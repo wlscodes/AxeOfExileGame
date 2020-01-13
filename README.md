@@ -1,4 +1,6 @@
 # AxeOfExile
+Autorzy: [WiW] Dariusz Walas, Kamil Walczak
+Grupa: K37
 
 ## Opis
 Konsolowa gra RPG. Graj. Przemierzaj różne krainy. Walcz z potworami. Zdobywaj doświadzczenie. Zakładaj nowe przedmioty, tylko nie daj sie zabić...
