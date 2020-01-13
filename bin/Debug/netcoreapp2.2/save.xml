@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<World xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Town>
+    <player>
+      <Health>100</Health>
+      <Strength>10</Strength>
+      <Name />
+      <Position>
+        <X>5</X>
+        <Y>10</Y>
+      </Position>
+      <Money>25</Money>
+      <inventory />
+      <Level>1</Level>
+      <ToNextLevel>10</ToNextLevel>
+    </player>
+  </Town>
+  <User>
+    <Health>100</Health>
+    <Strength>10</Strength>
+    <Name>jacek</Name>
+    <Position>
+      <X>17</X>
+      <Y>54</Y>
+    </Position>
+    <Money>15</Money>
+    <inventory />
+    <Armor>
+      <BuyPrice>10</BuyPrice>
+      <Description>Rycerska tunika wykonana ze skory orkow</Description>
+      <IsStacked>false</IsStacked>
+      <Name>Skorzana tunika</Name>
+      <SellPrice>3</SellPrice>
+    </Armor>
+    <Level>1</Level>
+    <ToNextLevel>10</ToNextLevel>
+  </User>
+</World>

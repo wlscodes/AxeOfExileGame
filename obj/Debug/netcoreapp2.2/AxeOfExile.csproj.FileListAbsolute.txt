@@ -1,0 +1,20 @@
+C:\Program Files\VisualProjects\AxeOfExile\bin\Debug\netcoreapp2.2\AxeOfExile.deps.json
+C:\Program Files\VisualProjects\AxeOfExile\bin\Debug\netcoreapp2.2\AxeOfExile.runtimeconfig.json
+C:\Program Files\VisualProjects\AxeOfExile\bin\Debug\netcoreapp2.2\AxeOfExile.runtimeconfig.dev.json
+C:\Program Files\VisualProjects\AxeOfExile\bin\Debug\netcoreapp2.2\AxeOfExile.dll
+C:\Program Files\VisualProjects\AxeOfExile\bin\Debug\netcoreapp2.2\AxeOfExile.pdb
+C:\Program Files\VisualProjects\AxeOfExile\obj\Debug\netcoreapp2.2\AxeOfExile.csprojAssemblyReference.cache
+C:\Program Files\VisualProjects\AxeOfExile\obj\Debug\netcoreapp2.2\AxeOfExile.AssemblyInfoInputs.cache
+C:\Program Files\VisualProjects\AxeOfExile\obj\Debug\netcoreapp2.2\AxeOfExile.AssemblyInfo.cs
+C:\Program Files\VisualProjects\AxeOfExile\obj\Debug\netcoreapp2.2\AxeOfExile.dll
+C:\Program Files\VisualProjects\AxeOfExile\obj\Debug\netcoreapp2.2\AxeOfExile.pdb
+C:\Users\dariuszw\Downloads\AxeOfExile\bin\Debug\netcoreapp2.2\AxeOfExile.deps.json
+C:\Users\dariuszw\Downloads\AxeOfExile\bin\Debug\netcoreapp2.2\AxeOfExile.runtimeconfig.json
+C:\Users\dariuszw\Downloads\AxeOfExile\bin\Debug\netcoreapp2.2\AxeOfExile.runtimeconfig.dev.json
+C:\Users\dariuszw\Downloads\AxeOfExile\bin\Debug\netcoreapp2.2\AxeOfExile.dll
+C:\Users\dariuszw\Downloads\AxeOfExile\bin\Debug\netcoreapp2.2\AxeOfExile.pdb
+C:\Users\dariuszw\Downloads\AxeOfExile\obj\Debug\netcoreapp2.2\AxeOfExile.AssemblyInfoInputs.cache
+C:\Users\dariuszw\Downloads\AxeOfExile\obj\Debug\netcoreapp2.2\AxeOfExile.AssemblyInfo.cs
+C:\Users\dariuszw\Downloads\AxeOfExile\obj\Debug\netcoreapp2.2\AxeOfExile.dll
+C:\Users\dariuszw\Downloads\AxeOfExile\obj\Debug\netcoreapp2.2\AxeOfExile.pdb
+C:\Users\dariuszw\Downloads\AxeOfExile\obj\Debug\netcoreapp2.2\AxeOfExile.csprojAssemblyReference.cache
