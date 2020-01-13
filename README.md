@@ -1,5 +1,5 @@
 # AxeOfExile
-Autorzy: [WiW] Dariusz Walas, Kamil Walczak
+Autorzy: [WiW] Dariusz Walas, Kamil Walczak  
 Grupa: K37
 
 ## Opis
