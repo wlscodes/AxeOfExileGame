@@ -7,6 +7,7 @@ Konsolowa gra RPG. Graj. Przemierzaj różne krainy. Walcz z potworami. Zdobywaj
 Po uruchomieniu "Stwórz nową grę" podaj nazwę gracza i rozpocznij przygodę.
 
 ## Główne okno
+![Mapa](mapa.png)
 
 ## Sterowanie
 Sterowanie odbywa się za pomocą wpisywania odpowiednich komend i potwierdzeniu ich klawiszem "Enter".
