@@ -9,9 +9,9 @@ Po uruchomieniu "Stwórz nową grę" podaj nazwę gracza i rozpocznij przygodę.
 ## Sterowanie
 Sterowanie odbywa się za pomocą wpisywania odpowiednich komend i potwierdzeniu ich klawiszem "Enter".
 
-w - *Przesuniecie gracza o jedna pozycje na polnoc*
-s - *Przesuniecie gracza o jedna pozycje na poludnie*
-a - *Przesuniecie gracza o jedna pozycje na zachod*
+w - *Przesuniecie gracza o jedna pozycje na polnoc*  
+s - *Przesuniecie gracza o jedna pozycje na poludnie*  
+a - *Przesuniecie gracza o jedna pozycje na zachod*  
 d - *Przesuniecie gracza o jedna pozycje na wschod*
 enter - *Wejdz do miasta*
 equipment - *Zarzadzaj ekwipunkiem*
